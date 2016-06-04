@@ -19,7 +19,7 @@ __This repository is still under active development and the program is not yet u
 
 `onedrive-d` is a Microsoft OneDrive client on Linux platforms. It allows a Linux user to sync with one or more
 OneDrive Personal account by synchronizing each remote OneDrive repository with a designated local directory. __Note
-that OneDrive for Business is not supported (see issue #1).__
+that OneDrive for Business is not supported (see [issue #2](https://github.com/xybu/onedrive-d/issues/2)).__
 
 ## Pre-requisites
 
